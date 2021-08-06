@@ -1,0 +1,33 @@
+Default Front controller is Home and admin controller is Dashboard
+
+Pending in Admin
+	send mail on username/password change
+	check isLogin in each controller on top
+	make argument validatioon after login
+	make privacy policy page
+	Account activation link ---- User/activateAccount/').$insert.'/'.$token;
+	Password reset link -------- 'User/resetPassword/').$user->id.'/'.$token; 
+
+Pending in front
+	1 - password reset success mail
+	2- 	
+
+
+
+
+
+ User: jayjewel_jeweluser
+
+Database: jayjewel_jeweldb	
+bootstrap 4 grids----------
+
+sm >=576px upto 767
+md >= 768px upto 991
+lg >= 992px upto 1199
+xl >= 1200
+
+
+
+
+
+					            
